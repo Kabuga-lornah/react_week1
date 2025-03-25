@@ -9,7 +9,7 @@ function Rhumba() {
           deeply feel
         </h1>
         <p className="text-xl text-center text-gray-600 mb-8">
-          Let's not rush — let's rhumba 🎶
+          Let's not rush — let's rhumba 
         </p>
         <ul className="list-disc list-inside space-y-3 text-gray-800 text-base">
           <li>Koffi Olomide — <span className="font-semibold">Loi</span></li>

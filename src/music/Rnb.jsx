@@ -8,7 +8,7 @@ function Rnb() {
           RnB's: Where Every Beat Tells a Story and Every Note Heals the Soul
         </h1>
         <p className="text-xl text-center text-gray-600 mb-8">
-          The Sound of Yesterday, Today, and Tomorrow 🎧
+          The Sound of Yesterday, Today, and Tomorrow 
         </p>
         <ul className="list-disc list-inside space-y-3 text-gray-800 text-base">
           <li>SZA — <span className="font-semibold">Snooze</span></li>
